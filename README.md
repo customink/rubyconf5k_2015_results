@@ -21,7 +21,7 @@ an issue and we'll take a look!
 | 9. | Lukas Maciulis | **22:34.1** |
 | 10. | Erik Krietsch | **22:41.2** |
 | 11. | Lucas Florio | **23:00.3** |
-| 12. | Ralph Ohurchill | **23:07.5** |
+| 12. | Ralph Churchill | **23:07.5** |
 | 13. | Isura Edirisinghe | **23:16.6** |
 | 14. | John Cinnamond | **23:47.6** |
 | 15. | Nathaniel Talbott | **24:03.7** |
